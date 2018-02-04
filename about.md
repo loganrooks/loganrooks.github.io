@@ -6,8 +6,6 @@ permalink: /about/
 
 Look dude, I don't really have time to tell you about myself. I'm a busy man with busy man stuff to do you know? Like, you probably have something better to do with your time than read some crappy blurb about some crappy guy bragging about how crappy he is. Now take this photo of a fish eating icecream and scram before I tell everyone how nosy you are.
 
-![icecream-fish](/images/fish/icecream-fish.png){:class="img-responsive"}
-
 <div style="text-align:center"><img src ="/images/fish/icecream-fish.png" /></div>
 
 ### (please don't) contact me
