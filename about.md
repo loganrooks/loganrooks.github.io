@@ -8,6 +8,8 @@ Look dude, I don't really have time to tell you about myself. I'm a busy man wit
 
 ![icecream-fish](/images/fish/icecream-fish.png){:class="img-responsive"}
 
+<div style="text-align:center"><img src ="/images/fish/icecream-fish.png" /></div>
+
 ### (please don't) contact me
 
 [logansrooks@gmail.com](mailto:logansrooks@gmail.com)
