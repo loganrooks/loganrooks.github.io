@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Look dude, I don't really have time to tell you about myself. I'm a busy man with busy man stuff to do you know? Like, you probably have something better to do with your time than read some crappy blurb about some crappy guy bragging about how crappy he is. Now take this photo of a fish eating icecream and scram before I tell everyone how nosey you are.
 
-### More Information
+![icecream-fish](/images/fish/icecream-fish.png){:class="img-responsive"}
 
-A place to include any other types of information that you'd like to include about yourself.
+### (please don't) contact me
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[logansrooks@gmail.com](mailto:logansrooks@gmail.com)
